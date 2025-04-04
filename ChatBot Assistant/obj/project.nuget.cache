@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QevjMiyaNw8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\source\\repos\\ChatBot Assistant\\ChatBot Assistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512",
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
