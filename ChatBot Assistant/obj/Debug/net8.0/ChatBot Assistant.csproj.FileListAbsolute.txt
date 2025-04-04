@@ -1,0 +1,19 @@
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\bin\Debug\net8.0\ChatBot Assistant.exe
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\bin\Debug\net8.0\ChatBot Assistant.deps.json
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\bin\Debug\net8.0\ChatBot Assistant.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\bin\Debug\net8.0\ChatBot Assistant.dll
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\bin\Debug\net8.0\ChatBot Assistant.pdb
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot Assistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot Assistant.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot Assistant.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot Assistant.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot Assistant.dll
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\refint\ChatBot Assistant.dll
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot Assistant.pdb
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot Assistant.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ref\ChatBot Assistant.dll
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\bin\Debug\net8.0\Figgle.dll
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\bin\Debug\net8.0\System.Speech.dll
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot Assistant.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\ChatBot Assistant\obj\Debug\net8.0\ChatBot .7222D344.Up2Date
